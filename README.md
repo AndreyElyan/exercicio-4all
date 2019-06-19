@@ -12,16 +12,16 @@
 
 ## Para rodar o backend
 
-- Entrar na pasta raiz (teste-4all/backend) e rodar o comando yarn ou npm install, para instalar
+- Entrar na pasta raiz (exercicio-4all/backend) e rodar o comando yarn ou npm install, para instalar
   as dependências.
 - Configurar o arquivo .env com as informações de acordo com a conexão do Banco de dados.
-- Após a configuração do arquivo .env na raiz (teste-4all/backend), rodar o comando "npx sequelize db:migrate".
-- Na raiz (teste-4all/backend) rodar o comando yarn start ou npm run start.
+- Após a configuração do arquivo .env na raiz (exercicio-4all/backend), rodar o comando "npx sequelize db:migrate".
+- Na raiz (exercicio-4all/backend) rodar o comando yarn start ou npm run start.
 
 ## Para rodar o frontend.
 
-- Entrar na pasta raiz (teste-4all/front-end) e rodar o comando yarn ou npm install, para instalar
+- Entrar na pasta raiz (exercicio-4all/front-end) e rodar o comando yarn ou npm install, para instalar
   as dependências.
-- Na raiz (teste-4all/front-end) rodar o comando yarn start ou npm run start.
+- Na raiz (exercicio-4all/front-end) rodar o comando yarn start ou npm run start.
 
 Andrey Elyan
