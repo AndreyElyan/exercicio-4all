@@ -2,21 +2,8 @@ import React, { Component } from "react";
 import PropTypes from "prop-types";
 
 import { connect } from "react-redux";
-import { bindActionCreators } from "redux";
-import { Creators as CardsActions } from "../../store/ducks/cards";
 
-import { Container } from "./styles";
-
-import {
-  Content,
-  PageTitle,
-  ButtonsWrapper,
-  HeaderPage,
-  List,
-  Tooltip
-} from "../../styles/components";
-
-import ModalCard from "../../components/ModalCard";
+import { Content } from "../../styles/components";
 
 import { Limit, ContainerCard } from "../home/styles";
 
