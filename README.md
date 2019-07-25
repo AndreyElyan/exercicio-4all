@@ -25,3 +25,25 @@
 - Na raiz (exercicio-4all/front-end) rodar o comando yarn start ou npm run start.
 
 Andrey Elyan
+
+## Tela de Login
+
+![image](https://user-images.githubusercontent.com/46023665/61836607-57352800-ae57-11e9-8cff-655f4888f126.png)
+
+## Poderá fazer transferências, atualizar saldo, etc..
+
+![image](https://user-images.githubusercontent.com/46023665/61836624-6916cb00-ae57-11e9-87b9-62f8a7fc1830.png)
+
+## Lead de contatos
+
+![image](https://user-images.githubusercontent.com/46023665/61836661-9794a600-ae57-11e9-818c-5e204b48b1ad.png)
+
+## Transferências
+
+![image](https://user-images.githubusercontent.com/46023665/61836679-ab400c80-ae57-11e9-81c6-f1372248bed3.png)
+
+## Consulta de saldo
+
+![image](https://user-images.githubusercontent.com/46023665/61836691-b98e2880-ae57-11e9-9158-95235a465082.png)
+
+Andrey Elyan
